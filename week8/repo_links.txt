@@ -1,0 +1,7 @@
+Beagle: https://github.com/clairetanyien/hs4002-beagle-2026
+Labrador: https://github.com/Sam-Lie/hs4002-labrador-2026/tree/main
+Dalmatian: https://github.com/janellesoh/hs4002-dalmation-2026
+Anshely: https://github.com/Anshely-Chin/hs4002_ac_2026
+Poodle: https://github.com/khavi31/poodle
+Husky: https://github.com/Zhao-Yihan123/HS4002_Team-Husky
+Corgi: https://github.com/yeo-yu-ann31/HS4002-Corgi-Group-Project/tree/main/code
